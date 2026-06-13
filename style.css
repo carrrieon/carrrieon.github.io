@@ -254,3 +254,16 @@ h3 {
   object-fit: cover;
   filter: grayscale(100%);
 }
+.mobile-label {
+  display: none;
+}
+
+@media (max-width: 820px) {
+  .desktop-label {
+    display: none;
+  }
+
+  .mobile-label {
+    display: inline;
+  }
+}
