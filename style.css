@@ -80,7 +80,7 @@ h1, h2, h3, p { margin-top: 0; }
 h1 {
   max-width: 1060px;
   font-size: clamp(46px, 8vw, 116px);
-  line-height: 0.85;
+  line-height: 0.84;
   letter-spacing: -0.07em;
   margin: 22px 0 28px;
 }
